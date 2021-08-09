@@ -1,0 +1,19 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "name": "nodemon",
+      "program": "${workspaceFolder}/server2.js",
+      "request": "launch",
+      "restart": true,
+      "runtimeExecutable": "/home/camzero/REACT/nodejs/node_modules/nodemon/bin/nodemon.js",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "pwa-node"
+    }
+  ]
+}
